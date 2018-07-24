@@ -85,7 +85,7 @@
 #endif
 #endif
 
-#include "./json.hpp"
+#include "Utilities/json.hpp"
 
 #ifndef TINYGLTF_NO_STB_IMAGE
 #include "./stb_image.h"
